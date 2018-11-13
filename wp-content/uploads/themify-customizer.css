@@ -2,4 +2,14 @@
 /* Themify Custom CSS */
 .top-bg{
 	 transform:skewY(90);
+
+}
+
+.blue-bg{
+background-color:#010554;
+transform:skewY(90);
+}
+
+.info{
+border-radius:20px;	
 }

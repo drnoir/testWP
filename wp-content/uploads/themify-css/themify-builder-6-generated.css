@@ -4,16 +4,18 @@
 .themify_builder .text-6-0-0-0.module-text,.themify_builder .text-6-0-0-0.module-text h1,.themify_builder .text-6-0-0-0.module-text h2,.themify_builder .text-6-0-0-0.module-text h3:not(.module-title),.themify_builder .text-6-0-0-0.module-text h4,.themify_builder .text-6-0-0-0.module-text h5,.themify_builder .text-6-0-0-0.module-text h6{color:#ffffff; }
 .themify_builder .buttons-6-0-0-1.module.module-buttons{background-repeat: repeat; background-position: left top; }
 .themify_builder .image-6-0-1-0.module-image{background-repeat: repeat; background-position: left top; padding-top:1px; padding-right:0px; padding-bottom:0px; padding-left:0px; margin-left:18px; }
-.themify_builder_6_row.module_row_1.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder_6_row.module_row_1.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; padding-top:50px; padding-bottom:50px; }
 .themify_builder_6_row.module_row_1.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
 .themify_builder .text-6-1-0-0.module-text{background-repeat: repeat; background-position: left top; }
-.themify_builder_6_row.module_row_2.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; padding-top:0px; padding-bottom:50px; margin-top:0px; }
+.themify_builder_6_row.module_row_2.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; padding-top:50px; padding-bottom:50px; margin-top:0px; }
 .themify_builder_6_row.module_row_2.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
 .themify_builder .image-6-2-0-0.module-image{background-repeat: repeat; background-position: left top; padding:21px; }
 .themify_builder .image-6-2-1-0.module-image{background-repeat: repeat; background-position: left top; padding:21px; }
 .themify_builder .image-6-2-2-0.module-image{background-repeat: repeat; background-position: left top; padding:21px; }
 .themify_builder .image-6-2-3-0.module-image{background-repeat: repeat; background-position: left top; padding:21px; }
 .themify_builder .image-6-2-4-0.module-image{background-repeat: repeat; background-position: left top; padding:21px; }
+.themify_builder_6_row.module_row_3.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; padding-top:50px; padding-bottom:50px; }
+.themify_builder_6_row.module_row_3.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
 .themify_builder .text-6-3-0-0.module-text{background-repeat: repeat; background-position: left top; }
 .themify_builder .text-6-3-0-0.module-text,.themify_builder .text-6-3-0-0.module-text h1,.themify_builder .text-6-3-0-0.module-text h2,.themify_builder .text-6-3-0-0.module-text h3:not(.module-title),.themify_builder .text-6-3-0-0.module-text h4,.themify_builder .text-6-3-0-0.module-text h5,.themify_builder .text-6-3-0-0.module-text h6{color:#000000; }
 .themify_builder .buttons-6-3-0-1.module.module-buttons{background-repeat: repeat; background-position: left top; }
@@ -21,7 +23,26 @@
 .themify_builder_6_row.module_row_4.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ce3e3e; }
 .themify_builder_6_row.module_row_4.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
 .themify_builder .text-6-sub_row_4-0-0-0-0.module-text{background-repeat: repeat; background-position: left top; }
+.themify_builder .text-6-sub_row_4-0-0-0-0.module-text,.themify_builder .text-6-sub_row_4-0-0-0-0.module-text h1,.themify_builder .text-6-sub_row_4-0-0-0-0.module-text h2,.themify_builder .text-6-sub_row_4-0-0-0-0.module-text h3:not(.module-title),.themify_builder .text-6-sub_row_4-0-0-0-0.module-text h4,.themify_builder .text-6-sub_row_4-0-0-0-0.module-text h5,.themify_builder .text-6-sub_row_4-0-0-0-0.module-text h6{color:#ffffff; }
 .themify_builder_6_row.module_row_5.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ce3e3e; }
 .themify_builder_6_row.module_row_5.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.themify_builder_6_row.module_row_6.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.module_row_5 .module_column_0.tb_6_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ffffff; }
+.module_row_5 .module_column_0.tb_6_column.module_column>div.tb-column-inner,.module_row_5 .module_column_0.tb_6_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .image-6-5-0-0.module-image{background-repeat: repeat; background-position: left top; padding:40px; }
+.module_row_5 .module_column_1.tb_6_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ffffff; }
+.module_row_5 .module_column_1.tb_6_column.module_column>div.tb-column-inner,.module_row_5 .module_column_1.tb_6_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .image-6-5-1-0.module-image{background-repeat: repeat; background-position: left top; padding:40px; }
+.module_row_5 .module_column_2.tb_6_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ffffff; }
+.module_row_5 .module_column_2.tb_6_column.module_column>div.tb-column-inner,.module_row_5 .module_column_2.tb_6_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .image-6-5-2-0.module-image{background-repeat: repeat; background-position: left top; padding:40px; }
+.themify_builder_6_row.module_row_6.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ce3e3e; padding-top:50px; padding-bottom:50px; }
 .themify_builder_6_row.module_row_6.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.module_row_6 .module_column_0.tb_6_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ffffff; }
+.module_row_6 .module_column_0.tb_6_column.module_column>div.tb-column-inner,.module_row_6 .module_column_0.tb_6_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .image-6-6-0-0.module-image{background-repeat: repeat; background-position: left top; padding:40px; }
+.module_row_6 .module_column_1.tb_6_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ffffff; }
+.module_row_6 .module_column_1.tb_6_column.module_column>div.tb-column-inner,.module_row_6 .module_column_1.tb_6_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .image-6-6-1-0.module-image{background-repeat: repeat; background-position: left top; padding:40px; }
+.module_row_6 .module_column_2.tb_6_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#ffffff; }
+.module_row_6 .module_column_2.tb_6_column.module_column>div.tb-column-inner,.module_row_6 .module_column_2.tb_6_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .image-6-6-2-0.module-image{background-repeat: repeat; background-position: left top; padding:40px; }
