@@ -1,3 +1,13 @@
+/* Themify Customize Styling */
+#footerwrap {	background: none;
+	background-color: #ce3e3e; 
+}
+#footer {	
+	color: #fafafa; 
+}
+#footer a {	
+	color: #ffffff; 
+}
 
 /* Themify Custom CSS */
 .top-bg{
